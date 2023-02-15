@@ -2,7 +2,7 @@
     .container {
         height: auto;
         padding: 250px 0px;
-        background-size: 350%;
+        background-size: auto;
     }
 
     .container img {
