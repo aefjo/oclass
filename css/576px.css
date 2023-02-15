@@ -1,8 +1,8 @@
 @media (max-width: 576px) {
     .container {
         height: auto;
-        padding: 250px 0px;
-        background-size: auto;
+        padding: 150px 0px;
+        background: none;
     }
 
     .container img {
